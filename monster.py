@@ -18,6 +18,7 @@ for job_elem in job_elems:
     print(title_elem.text.strip())
     print(company_elem.text.strip())
     print(location_elem.text.strip())
+    print()
 
 
 #print(results.prettify())

@@ -1,0 +1,1 @@
+A python program that scrapes [Monster](https://www.monster.com/) for Software Development job postings
